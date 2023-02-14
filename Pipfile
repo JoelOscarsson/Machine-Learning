@@ -10,6 +10,7 @@ matplotlib = "*"
 seaborn = "*"
 ipykernel = "*"
 scikit-learn = "*"
+black = "*"
 
 [dev-packages]
 
