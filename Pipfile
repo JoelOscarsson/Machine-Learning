@@ -12,6 +12,8 @@ ipykernel = "*"
 scikit-learn = "*"
 black = "*"
 sklearn = "*"
+certifi = "*"
+nltk = "*"
 
 [dev-packages]
 
