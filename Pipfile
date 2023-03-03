@@ -14,6 +14,8 @@ black = "*"
 sklearn = "*"
 certifi = "*"
 nltk = "*"
+fuzzywuzzy = "*"
+levenshtein = "*"
 
 [dev-packages]
 
