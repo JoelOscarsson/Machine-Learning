@@ -131,4 +131,10 @@ dmypy.json
 
 
 # Ignore some big csv files
-/Users/joeloscarsson/Documents/www/Machine-Learning/Projects/data3/*.csv
+/Users/joeloscarsson/Documents/www/Machine-Learning/Projects/data3/ratings1.csv
+
+Projects/data3/genome-tags1.csv
+Projects/data3/ratings1.csv
+
+
+*.csv
