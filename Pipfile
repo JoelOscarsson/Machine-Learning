@@ -16,6 +16,8 @@ certifi = "*"
 nltk = "*"
 fuzzywuzzy = "*"
 levenshtein = "*"
+plotly = "*"
+nbformat = "*"
 
 [dev-packages]
 
