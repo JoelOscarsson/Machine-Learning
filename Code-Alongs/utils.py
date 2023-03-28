@@ -1,11 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay
-
-def evaluate_classification(y_test, y_pred, labels = []):
-    print(classification_report(y_test, y_pred, labels = labels))
-    cm = confusion_matrix(y_test, y_pred, labels)
-    ConfusionMatrixDisplay(cm, display_labels=labels).plot()
 
 
 def print_shapes(X_train, X_test, y_train, y_test):
